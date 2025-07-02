@@ -13,7 +13,7 @@ This repo contains **11 practical projects**. From prompt engineering to RAG-bas
 
 ## 📚 Projects Overview
 
-| #  | Project Title                                             | Description                                                                 | Link |
+| #  | Project Title                                             | Description                                                                 |
 |----|-----------------------------------------------------------|-----------------------------------------------------------------------------|
 | 01 | **Text Generation App**                                   | Text generation using Azure OpenAI / OpenAI API.                            |
 | 02 | **Chat Application**                                      | Build and integrate a responsive chatbot using LLMs.                        |
