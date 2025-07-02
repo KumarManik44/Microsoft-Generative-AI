@@ -5,7 +5,7 @@
 Welcome to my hands-on project repository for the **Generative AI (Version 3)** course by Microsoft Cloud Advocates.  
 This course is a deep dive into building real-world Generative AI applications using LLMs, prompt engineering, APIs, and vector databases.
 
-## 🧠 What You'll Find Here
+## What You'll Find Here
 
 This repo contains **11 practical projects**. From prompt engineering to RAG-based apps and chatbot integrations, each project is designed to build end-to-end AI experiences.
 
